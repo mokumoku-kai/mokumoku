@@ -1,5 +1,5 @@
 # mokumoku
-mokumoku with us? You can find next meeting on our connpass group [mokumoku-kai](https://mokumoku-kai.connpass.com).
+Don't you mokumoku with us? You can find next meeting on our connpass group [mokumoku-kai](https://mokumoku-kai.connpass.com).
 
 ## Meetings
 | Event | Result |
